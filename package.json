@@ -1,0 +1,24 @@
+{
+  "name": "open-bootcamp-javascript-basic",
+  "version": "1.0.0",
+  "description": "Javascript Basic course in Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerschuk/Open-Bootcamp-Javascript-Basic.git"
+  },
+  "keywords": [
+    "OpenBootcamp",
+    "Javascript",
+    "Basic"
+  ],
+  "author": "Gabriel Nicolás Simchuk Gerasimchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gerschuk/Open-Bootcamp-Javascript-Basic/issues"
+  },
+  "homepage": "https://github.com/Gerschuk/Open-Bootcamp-Javascript-Basic#readme"
+}
